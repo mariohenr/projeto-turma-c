@@ -1,7 +1,8 @@
-MARIAO 
+# mariao
 
-# teste 
-
-tamo testando yooo
-
-naos seo
+...
+generos do metal:
+nu metal
+heavy metal
+death metal
+thrash metal
