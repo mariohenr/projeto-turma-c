@@ -1,8 +1,17 @@
 # mariao
 
 ...
-generos do metal:
-nu metal
-heavy metal
-death metal
-thrash metal
+
+GENEROS DO METAL:
+
+
+NU METAL
+
+HEAVY METAL
+
+DEATH METAL
+
+THRASH METAL
+
+
+---
