@@ -17,7 +17,6 @@ DADOS PESSOAIS
 RG: xxxxxxxxxx
 
 CPF: xxxxxxxxx
----
 
 IDADE:xx
 
