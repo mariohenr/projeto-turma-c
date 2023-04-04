@@ -11,10 +11,12 @@ CPF: xxxxxxxxx
 
 IDADE:xx
 
-IDADE:19
+IDADE: 19
 
-CEL:9039230403
+cel: 989098098
+
 ---
-Objetivo: Atuar na área de tecnologia 
-
+Objetivo: Atuar na área de tecnologia
+---
+Experiências: Atualmente cursando Analise e desenvolvimento de sistemas na UNIMAR
 
