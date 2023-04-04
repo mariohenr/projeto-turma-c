@@ -17,8 +17,15 @@ cel: 989098098
 
 ---
 
-Objetivo: Atuar na área de tecnologia
+Objetivo
+---
+Atuar na área de tecnologia
 
 ---
-Formação: Atualmente Cursando Analise e Desenvolvimento de Sistemas na UNIMAR (1º Período)
+Formação
+---
+Atualmente Cursando Analise e Desenvolvimento de Sistemas na UNIMAR (1º Período)
+
+---
+Cursos: Curso Preparatório MICROLINS
 
