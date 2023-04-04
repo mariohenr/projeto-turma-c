@@ -20,5 +20,5 @@ cel: 989098098
 Objetivo: Atuar na área de tecnologia
 
 ---
-Experiências: Atualmente cursando Analise e desenvolvimento de sistemas na UNIMAR
+Formação: Atualmente Cursando Analise e Desenvolvimento de Sistemas na UNIMAR (1º Período)
 
