@@ -1,18 +1,9 @@
 
-GENEROS DO METAL:
-
-
-NU METAL
-
-HEAVY METAL
-
-DEATH METAL
-
-THRASH METAL
-
+Nome: Mário Henrique Rabelo Dias
 ---
-
 DADOS PESSOAIS
+
+Email: mariorabelo@gmail.com
 
 RG: xxxxxxxxxx
 
@@ -23,4 +14,7 @@ IDADE:xx
 IDADE:19
 
 CEL:9039230403
+---
+Objetivo: Atuar na área de tecnologia 
+
 
