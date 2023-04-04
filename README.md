@@ -16,7 +16,9 @@ IDADE: 19
 cel: 989098098
 
 ---
+
 Objetivo: Atuar na área de tecnologia
+
 ---
 Experiências: Atualmente cursando Analise e desenvolvimento de sistemas na UNIMAR
 
